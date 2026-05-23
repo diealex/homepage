@@ -51,7 +51,8 @@ body {
 
 @media screen and (max-width: 576px) {
   .main-info,
-  .contact_info_container {
+  .contact_info_container,
+  .experiences__company-header {
     flex-direction: column;
   }
 
@@ -220,7 +221,7 @@ body {
   color: var(--durability-text-color);
   text-align: left;
   margin-bottom: 10px;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .experiences__company-project-name {
