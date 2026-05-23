@@ -68,6 +68,7 @@ body {
     margin-right: 0;
   }
 }
+
 /* Contact info styles */
 .contact-info__header,
 .contact-info__sub-header {
@@ -142,6 +143,7 @@ body {
   border: 3px solid;
   border-color: var(--text-decoration-color);
 }
+
 /* Intro and skills styles */
 .intro {
   display: flex;
@@ -179,6 +181,7 @@ body {
   color: var(--secondary-text-color);
   text-align: justify;
 }
+
 /* Experience and additional info styles */
 .experiences {
   flex: 1 1 60%;
