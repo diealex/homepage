@@ -113,8 +113,20 @@ body {
   justify-content: center;
 }
 
+.contact-info__item-icon i {
+  color: var(--text-decoration-color);
+  transition:
+    transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1)
+}
+
 .contact-info__item-icon path {
-  fill: var(--icon-color);
+  fill: var(--text-decoration-color);
+  transition:
+    transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1)
+}
+
+.contact-info__item-icon:hover {
+  transform: translateY(-2px) scale(1.18);
 }
 
 .contact-info__item-icon {
