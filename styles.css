@@ -179,6 +179,11 @@ body {
   margin-bottom: 20px;
 }
 
+.experiences__company-header {
+  display: flex;
+  justify-content: space-between;
+}
+
 .experiences__company-header-durability {
   color: var(--durability-text-color);
   text-align: left;
