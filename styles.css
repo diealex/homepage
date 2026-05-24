@@ -179,7 +179,7 @@ body {
 
 .skills__text {
   color: var(--secondary-text-color);
-  text-align: justify;
+  padding-left: 20px;
 }
 
 /* Experience and additional info styles */
@@ -200,7 +200,7 @@ body {
 }
 
 .experiences__company-header-durability {
-  color: var(--durability-text-color);
+  color: var(--secondary-text-color);
   text-align: left;
   margin-bottom: 10px;
   font-size: 15px;
@@ -221,7 +221,7 @@ body {
 }
 
 .experiences__company-project-role {
-  color: var(--durability-text-color);
+  color: var(--secondary-text-color);
   text-align: left;
   margin-bottom: 10px;
   font-size: 18px;
@@ -258,7 +258,7 @@ body {
 }
 
 .additional-info__education-university-durability {
-  color: var(--durability-text-color);
+  color: var(--secondary-text-color);
   text-align: left;
   margin-bottom: 10px;
   font-size: 15px;
