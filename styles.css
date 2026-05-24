@@ -179,7 +179,7 @@ body {
 
 .skills__text {
   color: var(--secondary-text-color);
-  text-align: justify;
+  padding-left: 20px;
 }
 
 /* Experience and additional info styles */
